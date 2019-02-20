@@ -8,4 +8,35 @@ section.splash {
     left: 0;
     margin: 30px;
     background: url("../img/splash_bg.jpg") bottom center / cover;
+    padding: 0;
+}
+
+.navbar {
+    background: rgba(0,0,0,0);
+    padding: 20px 20px 0 20px;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+
+.logo-text {
+    font-family: poynter-oldstyle-text;
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+    margin: 15px 0 0 15px;
+}
+
+.navbar_burger {
+    height: 50px;
+    width: auto;
+}
+
+.navbar_instagram {
+    height: 35px;
+    width: auto;
+    opacity: 0.5;
+    margin-right: 5px;
 }
